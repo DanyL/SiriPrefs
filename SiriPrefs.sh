@@ -96,6 +96,7 @@
 	fi
 
 	echo "Fixing permissions"
+	chmod 777 "/etc/siriprefs/SiriPrefs.sh"
 	chmod 777 "$dnsmasqpath"
 	chmod 777 "$lighttpdpath"
 	if [[ "$proxy" == "true" ]]
