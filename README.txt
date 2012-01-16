@@ -1,6 +1,6 @@
 SiriPrefs 0.2b by Dany Lisiansky (DanyL).
 
-SiriPrefs it's a set of web tools which combined to work together and allow you to launch apps using Siri/Bing voice/Google voice.
+SiriPrefs it's a set of network tools which combined to work together and allow you to launch apps using Siri/Bing voice/Google voice.
 
 dnsmasq = DNS Server
 squid & dansguardianpath = Transperant Proxy Server
