@@ -7,6 +7,11 @@ squid & dansguardianpath = Transperant Proxy Server
 lighttpd = Web Server
 
 Installation:
+
+Ubuntu users:
+You should activate 'universe' in software sources first, and run 'apt-get update'.
+http://www.rockbox-psgroove.com/siriprefs/Ubuntu.png
+
 1) Run Debian or Debian-based distro.
 2) Run terminal as root.
 * I recommand you to update your system before the installation by typing 'apt-get update' at the terminal.
